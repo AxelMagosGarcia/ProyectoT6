@@ -15,7 +15,8 @@ public class Proyecto6 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Jess, Bryan y Sebas");
+        System.out.println("que uvas");
+        
     }
     
 }
