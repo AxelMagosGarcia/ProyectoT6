@@ -7,7 +7,7 @@ package proyecto6;
 
 /**
  *
- * @author axelm
+ * @author Bryan uwu
  */
 public class Proyecto6 {
 
